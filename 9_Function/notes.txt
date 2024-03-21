@@ -1,0 +1,34 @@
+
+
+// Function declaration
+function functionName(parameter1, parameter2) {
+    // code to be executed
+    return result; // optional
+  }
+
+// Function expression
+  const functionName = function(parameter1, parameter2) {
+    // code to be executed
+    return result; // optional
+  };
+  
+// Arrow function (introduced in ECMAScript 6)
+  const functionName = (parameter1, parameter2) => {
+    // code to be executed
+    return result; // optional
+  };
+  
+  function addNumbers(a, b) {
+    return a + b;
+  }
+  const result = addNumbers(5, 10);
+  console.log(result); // Output: 15
+
+
+
+
+
+
+
+
+

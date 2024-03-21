@@ -1,0 +1,26 @@
+
+/* // Method - I */
+
+
+/* body{
+    font-size: 30px;
+}
+#time{
+    background-color: yellowgreen;
+    margin-top: 30%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} */
+
+
+
+/* // Method - II */
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    font-size: 2em;
+  }
